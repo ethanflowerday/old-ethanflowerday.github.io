@@ -3,4 +3,4 @@ To-Do:
 Consistant Headers/Footers
 Click to tweet link on header
 Finsih writing on index
-etc.
+add tumblr.ethanflowerday.com
