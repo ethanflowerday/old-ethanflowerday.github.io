@@ -4,3 +4,5 @@ Consistant Headers/Footers
 Click to tweet link on header
 Finsih writing on index
 add tumblr.ethanflowerday.com
+ethanflowerday.com/mmc - Multi Media Creations
+ethanflowerday.com/add - Adobe Digital Design
